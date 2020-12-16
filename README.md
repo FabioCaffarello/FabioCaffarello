@@ -15,8 +15,8 @@
 
 <h1>Projects</h1>
 
->- <a href="https://github.com/FabioCaffarello/Youtube-Video-Recommendations">Youtube Videos Romendations</a>
->-<a href="https://github.com/FabioCaffarello/Rossmann-Store-Sales">Rossmann Store Sales Predict</a>
+> - <a href="https://github.com/FabioCaffarello/Youtube-Video-Recommendations">Youtube Videos Romendations</a>
+> - <a href="https://github.com/FabioCaffarello/Rossmann-Store-Sales">Rossmann Store Sales Predict</a>
 
 ---
 <div style="display: flex;justify-content: space-around;" align="center">
