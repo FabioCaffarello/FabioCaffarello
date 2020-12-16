@@ -3,8 +3,8 @@
 <h3 align="center">Chemical Engineer and Data Scientist</h3>
 
 <div align="center">
-    <a href="https://www.linkedin.com/in/fabio-caffarello/" target="_blank"><img src="icons/linkedin-black.svg" alt="dev" width="4%" lenght="4%"></a>&nbsp;&nbsp;
-    <a href="https://www.kaggle.com/fabiomeireles" target="_blank"><img src="icons/kaggle-k-black.svg" alt="dev" width="4%" lenght="4%"></a>
+    <a href="https://www.linkedin.com/in/fabio-caffarello/" target="_blank"><img src="icons/linkedin-black.svg" alt="Linkedin" width="4%" lenght="4%"></a>&nbsp;&nbsp;
+    <a href="https://www.kaggle.com/fabiomeireles" target="_blank"><img src="icons/kaggle-k-black.svg" alt="Kaggle" width="4%" lenght="4%"></a>
 </div>
 
 <br></br>
