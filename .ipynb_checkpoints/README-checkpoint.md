@@ -7,6 +7,9 @@
     <a href="https://www.kaggle.com/fabiomeireles" target="_blank"><img src="icons/kaggle-k-black.svg" alt="dev" width="4%" lenght="4%"></a>
 </div>
 
+<br></br>
+
+- 🔭 I’m currently working on SaaS startup and data science projects
 - 🌱 I’m currently learning on python tools and data science. 
 - 👯 I’m looking to collaborate on data science projects.
 
