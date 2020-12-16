@@ -20,12 +20,12 @@
 
 <br></br>
 
-<div align="center">
-	<img src="icons/python.svg" alt="Kaggle" width="10%" lenght="10%">
-	<img src="icons/pandas.svg" alt="Kaggle" width="20%" lenght="10%">
-	<img src="icons/scikit-learn.svg" alt="Kaggle" width="17%" lenght="10%">
-	<img src="icons/mysql.svg" alt="Kaggle" width="13%" lenght="10%">
-	<img src="icons/git.svg" alt="Kaggle" width="9%" lenght="10%">
+<div align="center" style=".">
+	<img src="icons/python.svg" alt="Python" width="9%" lenght="10%">
+	<img src="icons/pandas.svg" alt="Pandas" width="20%" lenght="10%">
+	<img src="icons/scikit-learn.svg" alt="sklearn" width="18%" lenght="10%">
+	<img src="icons/mysql.svg" alt="mysql" width="11%" lenght="10%">
+	<img src="icons/git.svg" alt="git" width="8%" lenght="10%">
 </div>
 
 ---
