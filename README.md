@@ -17,6 +17,7 @@
 
 > - <a href="https://github.com/FabioCaffarello/Youtube-Video-Recommendations">Youtube Videos Romendations</a>
 > - <a href="https://github.com/FabioCaffarello/Rossmann-Store-Sales">Rossmann Store Sales Predict</a>
+> - <a href="https://github.com/FabioCaffarello/Churn-Prediction-TopBank">Churn Prediction TopBank (hypothetical bank)</a>
 
 <br></br>
 
