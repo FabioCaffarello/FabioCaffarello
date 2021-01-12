@@ -15,21 +15,36 @@
 
 <h1>Projects</h1>
 
-><strong><a href="https://github.com/FabioCaffarello/Youtube-Video-Recommendations">1.Youtube Videos Romendations</a></strong>
-><p>Youtube video recommendation system related to most relevant data science themes according to StackExchange that have greater chances of being of my interest when the interaction with the model is done by a bot in Telegram</p>
-><p>skills: Web Scraping, Machine Learning, Recommendation System, Heroku, Docker, API, Bot</p>
-><strong><a href="https://github.com/FabioCaffarello/Rossmann-Store-Sales">2. Rossmann Store Sales Predict</a></strong>
-><p>Sales forecast in six weeks of a pharmacy chain. The interaction with the model is made by a bot in Telegram</p>
-><p>skills: Machine Learning, Time Series, Heroku, API, Bot</p>
-><strong><a href="https://github.com/FabioCaffarello/Churn-Prediction-TopBank">3. Churn Prediction TopBank (hypothetical bank)</a></strong>
-><p>in development</p>
-><p>skills: Unbalanced Data, Machine Learning, Heroku, API</p>
-><strong><a href="https://github.com/FabioCaffarello/insurance-cross-sell">4. Health Insurance Cross Sell</a></strong>
-><p>in development</p>
-><p>skills: Unbalanced Data, Machine Learning, Heroku, API</p>
-><strong><a href="https://github.com/FabioCaffarello/airbnb-first-booking">5. Airbnb First Booking</a></strong>
-><p>in development</p>
-><p>skills: Unbalanced Data, Machine Learning, Recommendation System, Neural Networking</p>
+<strong><a href="https://github.com/FabioCaffarello/Youtube-Video-Recommendations">1.Youtube Videos Romendations</a></strong>
+<br>
+<a href="https://github.com/FabioCaffarello/Youtube-Video-Recommendations">
+	<img src="https://github.com/FabioCaffarello/Youtube-Video-Recommendations/blob/master/00-img/cover.jpg" alt="drawing" align="right" width="25%"/>
+</a>
+> <p>Youtube video recommendation system related to most relevant data science themes according to StackExchange that have greater chances of being of my interest when the interaction with the model is done by a bot in Telegram</p>
+> <p>Skills: Web Scraping, Machine Learning, Recommendation System, Heroku, Docker, API, Bot</p>
+<br>
+
+<strong><a href="https://github.com/FabioCaffarello/Rossmann-Store-Sales">2. Rossmann Store Sales Predict</a></strong>
+<br>
+<a href="https://github.com/FabioCaffarello/Rossmann-Store-Sales">
+	<img src="https://github.com/FabioCaffarello/Rossmann-Store-Sales/blob/master/img/rossmann.jpg" alt="drawing" align="right" width="25%"/>
+</a>
+> <p>Sales forecast in six weeks of a pharmacy chain. The interaction with the model is made by a bot in Telegram</p>
+> <p>Skills: Machine Learning, Time Series, Heroku, API, Bot</p>
+<br>
+<br>
+<strong><a href="https://github.com/FabioCaffarello/Churn-Prediction-TopBank">3. Churn Prediction TopBank (hypothetical bank)</a></strong>
+<br>
+<p>in development</p>
+<p>skills: Unbalanced Data, Machine Learning, Heroku, API</p>
+<strong><a href="https://github.com/FabioCaffarello/insurance-cross-sell">4. Health Insurance Cross Sell</a></strong>
+<br>
+<p>in development</p>
+<p>skills: Unbalanced Data, Machine Learning, Heroku, API</p>
+<strong><a href="https://github.com/FabioCaffarello/airbnb-first-booking">5. Airbnb First Booking</a></strong>
+<br>
+<p>in development</p>
+<p>skills: Unbalanced Data, Machine Learning, Recommendation System, Neural Networking</p>
 
 <br></br>
 
