@@ -12,7 +12,7 @@
 
 <h1>Projects</h1>
 
-<strong><a href="https://github.com/FabioCaffarello/Youtube-Video-Recommendations">1.Youtube Videos Romendations</a></strong>
+<strong><a href="https://github.com/FabioCaffarello/Youtube-Video-Recommendations">1. Youtube Videos Romendations</a></strong>
 <br>
 <a href="https://github.com/FabioCaffarello/Youtube-Video-Recommendations">
 	<img src="https://github.com/FabioCaffarello/Youtube-Video-Recommendations/blob/master/00-img/cover.jpg" alt="drawing" align="right" width="25%"/>
@@ -29,15 +29,20 @@
 > <p>Sales forecast in six weeks of a pharmacy chain. The interaction with the model is made by a bot in Telegram</p>
 > <p>Skills: Machine Learning, Time Series, Heroku, API, Bot</p>
 <br>
+
+<strong><a href="https://github.com/FabioCaffarello/insurance-cross-sell">3. Health Insurance Cross Sell</a></strong>
 <br>
-<strong><a href="https://github.com/FabioCaffarello/Churn-Prediction-TopBank">3. Churn Prediction TopBank (hypothetical bank)</a></strong>
+<a href="https://github.com/FabioCaffarello/insurance-cross-sell">
+	<img src="https://github.com/FabioCaffarello/insurance-cross-sell/blob/master/img/cover.jpg" alt="drawing" align="right" width="25%"/>
+</a>
+> <p>Forecast of clients with greater chances of contracting the new product in which the insurance company offers during the product launch campaign</p>
+> <p>skills: Unbalanced Data, Machine Learning, Heroku, API</p>
+
+<strong><a href="https://github.com/FabioCaffarello/Churn-Prediction-TopBank">4. Churn Prediction TopBank (hypothetical bank)</a></strong>
 <br>
 <p>in development</p>
 <p>skills: Unbalanced Data, Machine Learning, Heroku, API</p>
-<strong><a href="https://github.com/FabioCaffarello/insurance-cross-sell">4. Health Insurance Cross Sell</a></strong>
-<br>
-<p>in development</p>
-<p>skills: Unbalanced Data, Machine Learning, Heroku, API</p>
+
 <strong><a href="https://github.com/FabioCaffarello/airbnb-first-booking">5. Airbnb First Booking</a></strong>
 <br>
 <p>in development</p>
