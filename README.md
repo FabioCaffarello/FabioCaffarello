@@ -16,7 +16,7 @@
 <h1>Projects</h1>
 
 > - <a href="https://github.com/FabioCaffarello/Youtube-Video-Recommendations">Youtube Videos Romendations</a>
-> Youtube video recommendation system related to most relevant data science themes according to StackExchange that have greater chances of being of my interest when the interaction with the model is done by a bot in Telegram
+> -- Youtube video recommendation system related to most relevant data science themes according to StackExchange that have greater chances of being of my interest when the interaction with the model is done by a bot in Telegram
 > - <a href="https://github.com/FabioCaffarello/Rossmann-Store-Sales">Rossmann Store Sales Predict</a>
 > - <a href="https://github.com/FabioCaffarello/Churn-Prediction-TopBank">Churn Prediction TopBank (hypothetical bank)</a>
 > - <a href="https://github.com/FabioCaffarello/insurance-cross-sell">Health Insurance Cross Sell</a>
