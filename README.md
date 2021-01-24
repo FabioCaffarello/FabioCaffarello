@@ -9,7 +9,7 @@
 
 <div align="center">
 	<div style="display: inline-block;">
-    <img src="icons/gmail.svg" alt="Linkedin" width="5%" lenght="5%" >&nbsp;&nbsp;fabio.caffarello@gmail.com
+    <img src="icons/gmail.svg" alt="Linkedin" width="3%" lenght="3%" >&nbsp;&nbsp;fabio.caffarello@gmail.com
 	</div>
 </div>
 
@@ -60,8 +60,8 @@
 	<img src="icons/python.svg" alt="Python" width="9%" lenght="10%">&nbsp;&nbsp;
 	<img src="icons/pandas.svg" alt="Pandas" width="20%" lenght="10%">&nbsp;&nbsp;
 	<img src="icons/scikit-learn.svg" alt="sklearn" width="18%" lenght="10%">&nbsp;&nbsp;
-	<img src="icons/mysql.svg" alt="mysql" width="11%" lenght="10%">&nbsp;&nbsp;
 	<img src="icons/flask.svg" alt="git" width="8%" lenght="10%">&nbsp;&nbsp;
+	<img src="icons/mysql.svg" alt="mysql" width="11%" lenght="10%">&nbsp;&nbsp;
 	<img src="icons/git.svg" alt="git" width="8%" lenght="10%">&nbsp;&nbsp;
 	<img src="icons/heroku.svg" alt="git" width="8%" lenght="10%">
 </div>
