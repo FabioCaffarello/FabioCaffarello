@@ -9,7 +9,8 @@
 
 <div align="center">
 	<div style="display: inline-block;">
-    <img src="icons/gmail.svg" alt="Linkedin" width="2%" lenght="2%" >&nbsp;&nbsp;<strong>fabio.caffarello@gmail.com</strong>
+	<a href="https://www.linkedin.com/in/fabio-caffarello/" target="_blank">	
+		<img src="icons/gmail.svg" alt="Linkedin" width="2%" lenght="2%" >&nbsp;&nbsp;<strong>fabio.caffarello@gmail.com</strong></a>
 	</div>
 </div>
 
