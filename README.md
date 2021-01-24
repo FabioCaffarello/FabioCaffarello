@@ -9,7 +9,7 @@
 
 <div align="center">
 	<div style="display: inline-block;">
-    <img src="icons/gmail.svg" alt="Linkedin" width="3%" lenght="3%" >&nbsp;&nbsp;<strong>fabio.caffarello@gmail.com</strong>
+    <img src="icons/gmail.svg" alt="Linkedin" width="2%" lenght="2%" >&nbsp;&nbsp;<strong>fabio.caffarello@gmail.com</strong>
 	</div>
 </div>
 
