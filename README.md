@@ -32,6 +32,7 @@
 <strong><a href="https://github.com/FabioCaffarello/Rossmann-Store-Sales">2. Rossmann Store Sales Predict</a></strong>
 <br>
 <a href="https://github.com/FabioCaffarello/Rossmann-Store-Sales">
+	
 	<img src="https://github.com/FabioCaffarello/Rossmann-Store-Sales/blob/master/img/rossmann.jpg" alt="drawing" align="right" width="25%"/>
 </a>
 > <p>Sales forecast in six weeks of a pharmacy chain. The interaction with the model is made by a bot in Telegram</p>
