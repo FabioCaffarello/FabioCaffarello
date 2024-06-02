@@ -5,7 +5,7 @@ I'm a passionate data engineer with a keen interest in building scalable and eff
 
 ## Technologies & Tools
 - **Languages**: Python, Go, NodeJS, Rust.
-- **Frameworks & Libraries**: NestJS, Django, serverless 
+- **Frameworks & Libraries**: NestJS, Django, Spark, Serverless
 - **Databases**: PostgreSQL, MySQL, MongoDB, Redis, Cassandra, Elasticsearch  
 - **Tools**: Docker, Kubernetes, CI/CD, Nx, ArgoCD
 - **Messaging**: RabbitMQ, Kafka
