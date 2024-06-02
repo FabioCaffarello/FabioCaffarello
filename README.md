@@ -1,75 +1,40 @@
-<h1 align="center">Hi there 👋! I'm Fabio Luiz Meireles Caffarello</h1>
+<h1 align="center">Hi there 👋! I'm Fabio Caffarello</h1>
 
-<h3 align="center">Chemical Engineer and Data Scientist</h3>
+## About Me
+I'm a passionate data engineer with a keen interest in building scalable and efficient systems. With a strong background in Python, Go, and Clean Architecture, I enjoy tackling complex problems and delivering high-quality solutions. I highly value well-architected solutions and believe that a strong foundation is key to building robust and maintainable systems. I'm also on a journey to become a machine learning engineer, combining my data engineering skills with advanced machine learning techniques to create innovative solutions.
 
-<div align="center">
-    <a href="https://www.linkedin.com/in/fabio-caffarello/" target="_blank"><img src="icons/linkedin.svg" alt="Linkedin" width="4%" lenght="4%"></a>&nbsp;&nbsp;
-    <a href="https://www.kaggle.com/fabiomeireles" target="_blank"><img src="icons/kaggle.svg" alt="Kaggle" width="4%" lenght="4%"></a>
-</div>
-
-<div align="center">
-	<div style="display: inline-block;">
-		<a href="https://www.linkedin.com/in/fabio-caffarello/" target="_blank">	
-			<strong>fabio.caffarello@gmail.com</strong></a>
-	</div>
-</div>
-
-<br></br>
+## Technologies & Tools
+**Languages**: Python, Go, NodeJS, Rust.
+**Frameworks & Libraries**: NestJS, Django, serverless 
+**Databases**: PostgreSQL, MySQL, MongoDB, Redis, Cassandra, Elasticsearch  
+**Tools**: Docker, Kubernetes, CI/CD, Nx, ArgoCD
+**Messaging**: RabbitMQ, Kafka
+**Clouds**: AWS, GCP
 
 
-<h1>Projects</h1>
+## Projects
+### [Nx Events Lake](https://github.com/FabioCaffarello/nx-events-lake)
+An event-driven data lake solution designed to handle multiple sources and also a large volumes of data efficiently through a configuration-oriented microservices approach. This project leverages the power Docker for container orchestration, and Nx for managing monorepo workflows. It integrates non-relational databases like MongoDB to ensure scalability and high performance. The architecture supports messaging systems (RabbitMQ) to facilitate seamless data processing and event handling. You can read the project documentation on the [project page](https://fabiocaffarello.github.io/nx-events-lake/)
 
-<strong><a href="https://github.com/FabioCaffarello/Youtube-Video-Recommendations">1. Youtube Videos Romendations</a></strong>
-<br>
-<a href="https://github.com/FabioCaffarello/Youtube-Video-Recommendations">
-	<img src="https://github.com/FabioCaffarello/Youtube-Video-Recommendations/blob/master/00-img/cover.jpg" alt="drawing" align="right" width="25%"/>
-</a>
-> <p>Youtube video recommendation system related to most relevant data science themes according to StackExchange that have greater chances of being of my interest when the interaction with the model is done by a bot in Telegram</p>
-> <p>Skills: Web Scraping, Machine Learning, Recommendation System, Heroku, Docker, API, Bot</p>
-<br>
 
-<strong><a href="https://github.com/FabioCaffarello/Rossmann-Store-Sales">2. Rossmann Store Sales Predict</a></strong>
-<br>
-<a href="https://github.com/FabioCaffarello/Rossmann-Store-Sales">
-	<img src="https://github.com/FabioCaffarello/Rossmann-Store-Sales/blob/master/img/rossmann.jpg" alt="drawing" align="right" width="25%"/>
-</a>
-> <p>Sales forecast in six weeks of a pharmacy chain. The interaction with the model is made by a bot in Telegram</p>
-> <p>Skills: Machine Learning, Time Series, Heroku, API, Bot</p>
-<br>
+### [Master Go Expert](https://github.com/FabioCaffarello/master-go-expert)
+This repository contains my projects and exercises from the Master Go Expert course. It showcases various advanced Go programming techniques and best practices, including Clean Architecture, concurrency patterns, and performance optimization. The projects in this repository highlight my journey to mastering Go and my commitment to continuous learning and improvement.
 
-<strong><a href="https://github.com/FabioCaffarello/insurance-cross-sell">3. Health Insurance Cross Sell</a></strong>
-<br>
-<a href="https://github.com/FabioCaffarello/insurance-cross-sell">
-	<img src="https://github.com/FabioCaffarello/insurance-cross-sell/blob/master/img/cover.jpg" alt="drawing" align="right" width="25%"/>
-</a>
-> <p>Forecast of clients with greater chances of contracting the new product in which the insurance company offers during the product launch campaign</p>
-> <p>skills: Unbalanced Data, Machine Learning, Heroku, API</p>
+### Exploratory Projects
 
-<strong><a href="https://github.com/FabioCaffarello/Churn-Prediction-TopBank">4. Churn Prediction TopBank (hypothetical bank)</a></strong>
-<br>
-<p>in development</p>
-<p>skills: Unbalanced Data, Machine Learning, Heroku, API</p>
+#### [Spark Connect Golang](https://github.com/FabioCaffarello/spark-connect-golang)
+A "Hello World" project exploring the integration of Apache Spark with Go. This project demonstrates basic connectivity and data processing using Spark's capabilities within a Go application.
 
-<strong><a href="https://github.com/FabioCaffarello/airbnb-first-booking">5. Airbnb First Booking</a></strong>
-<br>
-<p>in development</p>
-<p>skills: Unbalanced Data, Machine Learning, Neural Networking</p>
+#### [Py-Rust](https://github.com/FabioCaffarello/py-rust)
+A "Hello World" project experimenting with the integration of Python and Rust. This project showcases how Rust can be leveraged to enhance Python applications, focusing on performance improvements and interoperability between the two languages. You can read more about my approach in my [Medium article](https://fabio-caffarello.medium.com/optimizing-python-applications-with-rust-a-practical-approach-f900d38a3959).
 
-<br></br>
 
-<div align="center" style=".">
-	<img src="icons/python.svg" alt="Python" width="9%" lenght="10%">&nbsp;&nbsp;
-	<img src="icons/pandas.svg" alt="Pandas" width="20%" lenght="10%">&nbsp;&nbsp;
-	<img src="icons/scikit-learn.svg" alt="sklearn" width="18%" lenght="10%">&nbsp;&nbsp;
-	<img src="icons/flask.svg" alt="git" width="8%" lenght="10%">&nbsp;&nbsp;
-	<img src="icons/mysql.svg" alt="mysql" width="11%" lenght="10%">&nbsp;&nbsp;
-	<img src="icons/git.svg" alt="git" width="8%" lenght="10%">&nbsp;&nbsp;
-	<img src="icons/heroku.svg" alt="git" width="8%" lenght="10%">
-</div>
+## Fun Facts
+📚 I love reading about software architecture and design patterns.  
+🍳 Cooking is another one of my passions; I enjoy experimenting with new recipes and techniques, and I'm currently learning how to prepare Japanese food.
 
----
-<div style="display: flex;justify-content: space-around;" align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=FabioCaffarello&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" alt="github stats">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabioCaffarello&layout=compact&hide_border=true&title_color=000" alt="clebio languages">
-</div>
 
+Thanks for stopping by! Feel free to explore my repositories and reach out if you want to collaborate on a project or just chat about technology.
+
+## Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/fabio-caffarello/)
