@@ -4,12 +4,12 @@
 I'm a passionate data engineer with a keen interest in building scalable and efficient systems. With a strong background in Python, Go, and Clean Architecture, I enjoy tackling complex problems and delivering high-quality solutions. I highly value well-architected solutions and believe that a strong foundation is key to building robust and maintainable systems. I'm also on a journey to become a machine learning engineer, combining my data engineering skills with advanced machine learning techniques to create innovative solutions.
 
 ## Technologies & Tools
-**Languages**: Python, Go, NodeJS, Rust.
-**Frameworks & Libraries**: NestJS, Django, serverless 
-**Databases**: PostgreSQL, MySQL, MongoDB, Redis, Cassandra, Elasticsearch  
-**Tools**: Docker, Kubernetes, CI/CD, Nx, ArgoCD
-**Messaging**: RabbitMQ, Kafka
-**Clouds**: AWS, GCP
+- **Languages**: Python, Go, NodeJS, Rust.
+- **Frameworks & Libraries**: NestJS, Django, serverless 
+- **Databases**: PostgreSQL, MySQL, MongoDB, Redis, Cassandra, Elasticsearch  
+- **Tools**: Docker, Kubernetes, CI/CD, Nx, ArgoCD
+- **Messaging**: RabbitMQ, Kafka
+- **Clouds**: AWS, GCP
 
 
 ## Projects
